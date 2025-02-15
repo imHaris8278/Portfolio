@@ -4,8 +4,9 @@ export const projectsData = [
     name: "Software Engineer - DevNexus",
     duration: "(Jan 2025 - Present)",
     description: [
-      "Integrated frontend and backend of the application using RTK and RTQ, ensuring seamless data management, efficient API communication, and smooth user interactions across both systems.",
-      "Collaborated with cross-functional teams to troubleshoot, test, and optimize application performance.",
+      "Integrated 30+ APIs using RTK and RTQ, ensuring seamless data management and efficient API communication.",
+      "Collaborated with cross-functional teams to troubleshoot, test, and optimize application performance, significantly improving user experience and system efficiency.",
+      "Worked in an Agile environment using a ticketing system in Jira to manage tasks and track progress on development sprints.",
       "Enhanced problem-solving skills by working with existing codebases and contributing to developing new features.",
     ],
     role: "Software Engineer",
@@ -28,9 +29,9 @@ export const projectsData = [
     name: "Software Engineer Fellow - Headstarter AI",
     duration: "(Jul 2024 - Sep 2024)",
     description: [
-      "Developed and deployed 5 AI projects using React.js, Next.js, Firebase, and GenAI, implementing agile methodologies and CI/CD practices.",
+      "Developed and deployed AI-driven projects using React.js, Next.js, Firebase, and GenAI, applying agile methodologies and CI/CD practices to ensure efficient delivery and continuous integrations.",
       "Collaborated with a team to create an AI-driven customer support agent and built a SaaS product with dynamic flashcards, integrating Stripe for secure payments.",
-      "Completed 5 mock technical interviews and tackled 50+ coding challenges focused on data structures, algorithms, and system design to enhance coding and communication skills.",
+      "Completed 5+ mock technical interviews and tackled 50+ coding challenges focused on data structures, algorithms, and system design to enhance coding and communication skills.",
     ],
     role: "Software Engineer Fellow",
     tools: ["React.js", "Next.js", "Firebase", "GenAI", "Stripe", "CI/CD"],
@@ -51,12 +52,12 @@ export const projectsData = [
   },
   {
     id: 4,
-    name: "E-Learning Platform (Becodemy)",
+    name: "E-Learning LMS",
     duration: "(Sep 2024 - Nov 2024)",
     description: [
-      "Developed a comprehensive LMS using TypeScript with Next.js and Node.js, integrating secure Google/GitHub OAuth and OTP-based authentication.",
-      "Implemented real-time communication using sockets, in-memory operations with Redis, and seamless API integration using Redux Query.",
-      "Added an analytics dashboard for admins, a notification system, and ensured system scalability.",
+      "Developed and deployed a comprehensive LMS using TypeScript, Next.js, and Node.js, integrating secure Google/GitHub OAuth and OTP-based authentication mechanisms for user security.",
+      "Implemented Redux and RTQ for seamless API integration, integrated 20+ APIs, optimized performance using Redis for caching and Socket.io for real-time communication, and incorporated Node Mailer for email notifications.",
+      " Built-in admin dashboard to provide detailed analytics and real-time push notifications, offering administrators an overview of platform usage and system activity.",
     ],
     tools: [
       "Next.js",
@@ -74,12 +75,12 @@ export const projectsData = [
   },
   {
     id: 5,
-    name: "Struggle.io (Mentorship Platform)",
+    name: "Struggle.IO",
     duration: "(Nov 2023 - May 2024)",
     description: [
-      "Built a dynamic mentorship platform using the MERN stack and Tailwind CSS, enabling mentors and mentees to connect through request-based interactions.",
-      "Implemented personalized mentor roadmaps, real-time chat with sockets, and an intuitive UI for seamless navigation.",
-      "Focused on fostering a supportive learning environment through continuous feedback.",
+      "Built a dynamic mentorship platform using the MERN and Tailwind CSS, enabling mentors and mentees to log in, register, and connect through request-based interactions.",
+      "Built personalized features for mentors to assign customized roadmaps, track mentee progress, and integrated Socket.io for a low-latency real-time chat system, enabling seamless communication and continuous feedback.",
+      " Designed an intuitive UI/UX for seamless navigation, fostering a supportive and engaging environment for professional growth and collaboration.",
     ],
     tools: [
       "MongoDB",
